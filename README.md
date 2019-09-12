@@ -5,8 +5,8 @@
 Simples estrutura de CRUD criada com base no tutorial do site 5balloons.info através da URL: https://www.5balloons.info/tutorial-simple-crud-operations-in-laravel-5-5/
 
 Ferramentas utilizadas:
--XAMPP no LInux Mint 19.1
--Visual Studio Code
+-XAMPP no LInux Mint 19.1;
+-Visual Studio Code;
 
 Habilitei o virtual hosts no XAMPP e o configurei editando o arquivo /opt/lampp/etc/extra/httpd-vhosts.conf 
 
